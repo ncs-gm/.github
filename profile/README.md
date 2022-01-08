@@ -22,7 +22,6 @@ This GitHub organization was created by Le Nhut Nam, aiming to share and researc
 - Computer Science student at the University of Science, VNU, HCMC.
 - Have a piece of knowledge about recognition, machine learning, and multivariate statistical analysis.
 - Interested in Representation Learning on Graphs, Knowledge Graphs and graph neural networks. 
-- Focusing on gnowledge graph completion, especially link prediction, modelling complex relations and interactions in multi-relational data, graph structures and networks.
 
 ### Topics 
 
